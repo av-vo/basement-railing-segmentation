@@ -1,0 +1,7 @@
+path: ../data/221111-basement-railing-merrionsq
+train: [part-3/images, part-4/images, part-1/images]
+val: part-2/images
+test: 
+
+nc: 1
+names: ['basement-railing']
